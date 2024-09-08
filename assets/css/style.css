@@ -8616,7 +8616,7 @@ h6 {
   border-radius: var( );
   background-color: var( );
   max-width: 1200px;
-  box-shadow: #cf0dbf 0 20px 50px -10px;
+  box-shadow: #0099cc 0 20px 50px -10px; 
   height: auto;
   overflow-wrap: anywhere;
   background: #0202027c;
