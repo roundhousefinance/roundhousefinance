@@ -8113,51 +8113,51 @@ body {
 
 /* Background for Page Home */
 .page1 {
-  background-image: url(/assets/img/backdrop1.png) ; 
+  background-image: url(/assets/img/rhfi-background.jpg) ; 
   background-size: cover;
 }
 
 /* Background for Page Fixed APR */
 .page2 {
-  background: url(/assets/img/backdrop1.png) no-repeat center center fixed;
+  background: url(/assets/img/rhfi-background.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Degen Rollercoaster*/
 .page3 {
-  background: url(/assets/img/backdrop1.png) no-repeat center center fixed;
+  background: url(/assets/img/rhfi-background.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Staking */
 .page4 {
-  background-image: url(/assets/img/backdrop1.png) ;
+  background-image: url(/assets/img/rhfi-background.jpg) ;
   background-size: cover;
 }
 
 /* Background for Page ROI */
 .page5 {
-  background: url(/assets/img/backdrop1.png) no-repeat center center fixed;
+  background: url(/assets/img/rhfi-background.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Gas Miner */
 .page6 {
-  background: url(/assets/img/backdrop1.png) no-repeat center center fixed;
+  background: url(/assets/img/rhfi-background.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Token Miner */
 
 .page7 {
-  background: url(/assets/img/backdrop1.png) no-repeat center center fixed;
+  background: url(/assets/img/rhfi-background.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Lottery */
 
 .page8 {
-  background: url(/assets/img/backdrop1.png);
+  background: url(/assets/img/rhfi-background.jpg);
   background-size: cover;
 }
 
