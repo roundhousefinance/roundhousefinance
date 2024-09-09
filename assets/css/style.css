@@ -1,5 +1,5 @@
 
-/*
+
 @font-face {
   font-family: 'Open Sans';
   font-style: italic;
@@ -353,7 +353,7 @@
   font-style: normal;
   font-weight: 400;
   src: url(https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK3nVivY.ttf) format('truetype')
-}   */
+}   
 
 .glightbox-container {
   width: 100%;
@@ -9386,7 +9386,7 @@ section {
 .texting {
   color: var(--token);
   letter-spacing: 1px;
-  font-family: Bangers !important;
+  font-family: League Gothic !important;
   display: flex;
   justify-content: center;
   font-weight: 400;
@@ -9396,7 +9396,7 @@ section {
 .text2 {
   color: var(--token2);
   letter-spacing: 1px;
-  font-family: Bangers !important;
+  font-family: League Gothic !important;
   display: flex;
   justify-content: center;
   font-weight: 400;
@@ -9406,7 +9406,7 @@ section {
 .text2a {
   color: var(--token2);
   letter-spacing: 1px;
-  font-family: Bangers !important;
+  font-family: League Gothic !important;
   display: flex;
   justify-content: center;
   font-weight: 400;
@@ -9416,7 +9416,7 @@ section {
 .text3 {
   color: var(--token3);
   letter-spacing: 1px;
-  font-family: Bangers !important;
+  font-family: League Gothic !important;
   display: flex;
   justify-content: center;
   font-weight: 400;
@@ -9426,7 +9426,7 @@ section {
 .text4 {
   color: var(--token3);
   letter-spacing: 1px;
-  font-family: Bangers !important;
+  font-family: League Gothic !important;
   display: flex;
   justify-content: center;
   font-weight: 400;
