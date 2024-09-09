@@ -3499,6 +3499,8 @@ summary {
   }
 }
 
+
+/* input box */
 .form-text {
   margin-top: .25rem;
   font-size: .875em;
@@ -3796,6 +3798,10 @@ summary {
 .form-check-input:disabled~.form-check-label {
   opacity: .5
 }
+
+/* input box */
+
+
 
 .btn-check {
   position: absolute;
@@ -8163,6 +8169,111 @@ body {
   background-size: cover;
 }
 
+.usdc {
+  color: rgb(26, 218, 231) !important
+}
+
+
+.pdai {
+  color: #b628c9;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 600;
+  letter-spacing: 1px
+  
+}
+
+.usdt {
+  color: #1765da;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 600;
+  letter-spacing: 1px
+  
+}
+
+.usd {
+  font-size: 12px;
+  font-weight: 500;
+  color: #b628c9;
+  width: auto;
+  text-align: center
+}
+
+.busd {
+  color: #e6ece6;
+  letter-spacing: 1px;
+  font-family: Montserrat !important;
+  display: flex;
+  justify-content: center;
+  font-weight: 400;
+  font-size: 20px
+}
+
+.dai {
+  color: #e6ece6;
+  letter-spacing: 1px;
+  font-family: Montserrat !important;
+  display: flex;
+  justify-content: center;
+  font-weight: 400;
+  font-size: 25px
+}
+
+
+
+.texting {
+  color: var(--token);
+  letter-spacing: 1px;
+  font-family: Montserrat !important;
+  display: flex;
+  justify-content: center;
+  font-weight: 400;
+  font-size: 25px
+}
+
+.text2 {
+  color: var(--token2);
+  letter-spacing: 1px;
+  font-family: Montserrat !important;
+  display: flex;
+  justify-content: center;
+  font-weight: 400;
+  font-size: 15px
+}
+
+.text2a {
+  color: var(--token2);
+  letter-spacing: 1px;
+  font-family: Montserrat !important;
+  display: flex;
+  justify-content: center;
+  font-weight: 400;
+  font-size: 14px
+}
+
+.text3 {
+  color: var(--token3);
+  letter-spacing: 1px;
+  font-family: Montserrat !important;
+  display: flex;
+  justify-content: center;
+  font-weight: 400;
+  font-size: 20px
+}
+
+.text4 {
+  color: var(--token3);
+  letter-spacing: 1px;
+  font-family: Montserrat !important;
+  display: flex;
+  justify-content: center;
+  font-weight: 400;
+  font-size: 16px
+}
+
 
 
 a {
@@ -8177,7 +8288,7 @@ a:hover {
 
 span {
   font-family: 'myfonts';
-  color: #2dc4d8;
+  color: #fff;
   text-align: center;
 }
 
@@ -8891,42 +9002,6 @@ h6 {
   }
 }
 
-.pdai {
-  color: #b628c9;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  font-weight: 600;
-  letter-spacing: 1px
-  
-}
-
-.usdt {
-  color: #1765da;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  font-weight: 600;
-  letter-spacing: 1px
-  
-}
-
-.usd {
-  font-size: 12px;
-  font-weight: 500;
-  color: #b628c9;
-  width: auto;
-  text-align: center
-}
-
-.busd {
-  color: #e6ece6;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  font-weight: 600;
-  letter-spacing: 1px
-}
 
 .disclaimer {
   font-size: 13px;
@@ -9375,63 +9450,11 @@ section {
   max-width: 560px !important
 }
 
-.usdc {
-  color: rgb(26, 218, 231) !important
-}
-
 .items-center {
   align-items: center !important
 }
 
-.texting {
-  color: var(--token);
-  letter-spacing: 1px;
-  font-family: Montserrat !important;
-  display: flex;
-  justify-content: center;
-  font-weight: 400;
-  font-size: 25px
-}
 
-.text2 {
-  color: var(--token2);
-  letter-spacing: 1px;
-  font-family: Montserrat !important;
-  display: flex;
-  justify-content: center;
-  font-weight: 400;
-  font-size: 15px
-}
-
-.text2a {
-  color: var(--token2);
-  letter-spacing: 1px;
-  font-family: Montserrat !important;
-  display: flex;
-  justify-content: center;
-  font-weight: 400;
-  font-size: 14px
-}
-
-.text3 {
-  color: var(--token3);
-  letter-spacing: 1px;
-  font-family: Montserrat !important;
-  display: flex;
-  justify-content: center;
-  font-weight: 400;
-  font-size: 20px
-}
-
-.text4 {
-  color: var(--token3);
-  letter-spacing: 1px;
-  font-family: Montserrat !important;
-  display: flex;
-  justify-content: center;
-  font-weight: 400;
-  font-size: 16px
-}
 
 .dial-container {
   margin: 10px auto;
