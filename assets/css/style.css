@@ -8127,25 +8127,25 @@ body {
 
 /* Background for Page Fixed APR */
 .page2 {
-  background: url(/assets/img/rhfi-background.jpg) no-repeat center center fixed;
+  background: url(/assets/img/presale.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Degen Rollercoaster*/
 .page3 {
-  background: url(/assets/img/rhfi-background.jpg) no-repeat center center fixed;
+  background: url(/assets/img/farm7.jpeg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Staking */
 .page4 {
-  background-image: url(/assets/img/rhfi-background.jpg) ;
+  background-image: url(/assets/img/liquidity.jpg) ;
   background-size: cover;
 }
 
 /* Background for Page ROI */
 .page5 {
-  background: url(/assets/img/rhfi-background.jpg) no-repeat center center fixed;
+  background: url(/assets/img/56.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
