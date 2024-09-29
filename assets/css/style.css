@@ -8151,21 +8151,21 @@ body {
 
 /* Background for Page Gas Miner */
 .page6 {
-  background: url(/assets/img/farm7.jpeg) no-repeat center center fixed;
+  background: url(/assets/img/liquidity.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Token Miner */
 
 .page7 {
-  background: url(/assets/img/farm7.jpeg) no-repeat center center fixed;
+  background: url(/assets/img/liquidity.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Lottery */
 
 .page8 {
-  background: url(/assets/img/farm7.jpeg);
+  background: url(/assets/img/liquidity.jpg);
   background-size: cover;
 }
 
