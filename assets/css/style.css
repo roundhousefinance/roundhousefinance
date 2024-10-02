@@ -8091,17 +8091,7 @@ summary {
   content: "\ec90"
 }
 
-:root {
-  --primary: #634dc4;
-  --secondary: rgba(255, 255, 255, 0.08);
-  --secondary-dark: rgba(255, 252, 252, 0.945);
-  --token: #c90cb9;
-  --token2:#1f73c2;
-  --token3:#1a8f0b;
-  --icons: #cfcfcf;
-  --busd-color: rgb(250, 90, 183);
-  --lines: rgb(255, 255, 255)
-}
+
 
 @font-face {
   font-family: "Press Start 2p"
@@ -8127,46 +8117,58 @@ body {
 
 /* Background for Page Fixed APR */
 .page2 {
-  background: url(/assets/img/56.jpg) no-repeat center center fixed;
+  background: url(/assets/img/rhfi-background.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Degen Rollercoaster*/
 .page3 {
-  background: url(/assets/img/farm7.jpeg) no-repeat center center fixed;
+  background: url(/assets/img/rhfi-background.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Staking */
 .page4 {
-  background-image: url(/assets/img/56.jpg) ;
+  background-image: url(/assets/img/rhfi-background.jpg) ;
   background-size: cover;
 }
 
 /* Background for Page ROI */
 .page5 {
-  background: url(/assets/img/farm7.jpeg) no-repeat center center fixed;
+  background: url(/assets/img/rhfi-background.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Gas Miner */
 .page6 {
-  background: url(/assets/img/liquidity.jpg) no-repeat center center fixed;
+  background: url(/assets/img/rhfi-background.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Token Miner */
 
 .page7 {
-  background: url(/assets/img/liquidity.jpg) no-repeat center center fixed;
+  background: url(/assets/img/rhfi-background.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
 /* Background for Page Lottery */
 
 .page8 {
-  background: url(/assets/img/presale.jpg);
+  background: url(/assets/img/rhfi-background.jpg);
   background-size: cover;
+}
+
+:root {
+  --primary: #634dc4;
+  --secondary: rgba(255, 255, 255, 0.08);
+  --secondary-dark: rgba(255, 252, 252, 0.945);
+  --token: #f5a002;
+  --token2:#f5a002;
+  --token3:#dfae0d;
+  --icons: #cfcfcf;
+  --busd-color: rgb(250, 90, 183);
+  --lines: rgb(255, 255, 255)
 }
 
 .usdc {
@@ -8175,7 +8177,7 @@ body {
 
 
 .pdai {
-  color: #b628c9;
+  color: #dfae0d;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -8185,7 +8187,7 @@ body {
 }
 
 .usdt {
-  color: #1765da;
+  color: #dfae0d;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -8195,9 +8197,9 @@ body {
 }
 
 .usd {
-  font-size: 12px;
+  font-size: 20px;
   font-weight: 500;
-  color: #b628c9;
+  color: #e6ece6;
   width: auto;
   text-align: center
 }
@@ -8213,7 +8215,7 @@ body {
 }
 
 .dai {
-  color: #e6ece6;
+  color: #dfae0d;
   letter-spacing: 1px;
   font-family: Montserrat !important;
   display: flex;
